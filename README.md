@@ -90,5 +90,12 @@ Unemployment-Analysis/
 * Create interactive dashboards using Power BI or Tableau.
 * Incorporate additional economic indicators for deeper analysis.
 
+##  Screenshots
 
+###  Create Interactive Visualizations with Plotly
 
+![Create Interactive Visualizations with Plotly](https://github.com/teluguvijayaabhimanya-debug/Unemployment-Analysis/blob/main/Create%20Interactive%20Visualizations%20with%20Plotly.png?raw=true)
+
+### correlation matrix
+
+![correlation matrix]()
